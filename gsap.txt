@@ -1,0 +1,9 @@
+using GSAP with React
+
+- run command 'npm i gsap'
+- run command 'npm i @gsap/react'
+- import {useGSAP} from '@gsap/react'
+- make a function inside useGSAP()
+- import gsap (by choosing 2nd option in selection list)
+- write whatever you like 
+- don't forget to use useRef for reference of your element

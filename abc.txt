@@ -1,0 +1,19 @@
+React 
+
+- Installation and folder structure
+- real dom vs virtual dom 
+- jsx export import 
+- useState Hooks 
+- functions calling 
+- two way binding
+- form handling 
+- Styling
+- todo list
+- components breaking 
+- props drilling 
+- api calling (axios)
+- useEffect
+- Gallery Application
+- routing  (React Router DOM)
+- Context API
+- Redux

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+  font-size: 92px;
+  font-weight: 600;
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%,-50%);
+  text-decoration: underline;
+  white-space: nowrap;
+}
