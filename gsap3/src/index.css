@@ -1,0 +1,46 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html, body {
+    height:100%;
+    width:100%;
+}
+#main{
+  height: 100vh;
+  width: 100%;
+  background-color: lightblue;
+}
+
+.cursor{
+  height: 20px;
+  width: 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  mix-blend-mode: difference;
+  position: absolute;
+}
+
+#box{
+  height: 200px;
+  width: 200px;
+  background-color: crimson;
+  border-radius: 10px;
+  margin: 10px;
+  
+}
+button{
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+img{
+  height: 150px;
+  position: absolute;
+}
