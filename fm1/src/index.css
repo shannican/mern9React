@@ -1,0 +1,28 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html, body {
+    height:100%;
+    width:100%;
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  background-color: crimson;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: grab;
+}
+h1{
+  font-size: 100px;
+  margin: 10px;
+}
+
+
+.box:active{
+  cursor: grabbing;
+}
